@@ -1,0 +1,9 @@
+version: '3'
+
+services:
+    vesti:
+      build:
+        context: ./
+        dockerfile: bot.docker
+      volumes:
+        - ./:/usr/src/app

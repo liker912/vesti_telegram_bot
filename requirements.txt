@@ -1,0 +1,4 @@
+python-dotenv
+html-telegraph-poster
+python-telegram-bot
+beautifulsoup4
