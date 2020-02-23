@@ -14,7 +14,7 @@ Add to CRON job script run.sh
 
 Example for each 30 min:
 ````
-*/30 * * * * cd /path/to/repo/ && run.sh
+*/22 * * * * cd /path/to/repo/ && run.sh
 ````
 
 
